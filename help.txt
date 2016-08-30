@@ -1,15 +1,20 @@
 ```
-Command prefix is: //
-Current commands implemented are:
 
-test	Displays hello world
+COMMANDS
 
-Current implemented auto responses are:
+>test - Spits out a hello world, usually to make sure Bottimus has been set up properly
 
-"bepis bot is shit"		response: "what the fuck did you just say about me, you little bitch?"
+>help - executes this command and sends this list to your inbox
 
-"succ"		response: *succ*
+>roll - roll for dubs
 
-"rawr"		response: XD
+>dev - gives you developer info, links to github and other various details
+
+~EASTER EGGS~
+
+Find them yourself ;)
+
+
+*Project based off early version of bepis bot which has no public documentation*
 
 ```
