@@ -1,5 +1,4 @@
-```
-
+ 
 COMMANDS
 
 >test - Spits out a hello world, usually to make sure Bottimus has been set up properly
@@ -13,8 +12,3 @@ COMMANDS
 ~EASTER EGGS~
 
 Find them yourself ;)
-
-
-*Project based off early version of bepis bot which has no public documentation*
-
-```
