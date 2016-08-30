@@ -1,0 +1,15 @@
+```
+Command prefix is: //
+Current commands implemented are:
+
+test	Displays hello world
+
+Current implemented auto responses are:
+
+"bepis bot is shit"		response: "what the fuck did you just say about me, you little bitch?"
+
+"succ"		response: *succ*
+
+"rawr"		response: XD
+
+```
