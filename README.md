@@ -1,4 +1,4 @@
-# Bottimus Prime new
+# Bottimus Prime New
 The best shitposting bot you'll ever need
 Based off the new Bepis Bot public versions
 
