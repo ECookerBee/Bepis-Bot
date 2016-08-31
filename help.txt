@@ -1,7 +1,7 @@
  
 COMMANDS
 
->test - Spits out a hello world, usually to make sure Bottimus has been set up properly
+>test - Spits out a image, usually to make sure Bottimus has been set up properly
 
 >help - executes this command and sends this list to your inbox
 
@@ -9,6 +9,7 @@ COMMANDS
 
 >dev - gives you developer info, links to github and other various details
 
+>tits - ;)
 ~EASTER EGGS~
 
 Find them yourself ;)
