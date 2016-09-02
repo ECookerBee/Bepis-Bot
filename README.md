@@ -1,4 +1,5 @@
-# Bottimus Prime New
+# Fukumi-Bot
+Previously named bottimus
 The best shitposting bot you'll ever need,
 now based off the new Bepis Bot public versions!
 
