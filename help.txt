@@ -1,4 +1,5 @@
- 
+=========
+
 COMMANDS
 
 >test - Spits out a image, usually to make sure Bottimus has been set up properly
@@ -10,6 +11,13 @@ COMMANDS
 >dev - gives you developer info, links to github and other various details
 
 >tits - ;)
+
+>father - shitposting purposes
+
+=========
+
 ~EASTER EGGS~
 
 Find them yourself ;)
+
+=========
